@@ -1,0 +1,13 @@
+{
+  "headerLogo": "https://placehold.it/230x230",
+  "headerMenu": [
+    {"id": 0, "linkHref": "/", "linkTitle": "Home"},
+    {"id": 1, "linkHref": "/componentslist", "linkTitle": "Components list"},
+    {"id": 2, "linkHref": "/testforpagenotfound", "linkTitle": "404"},
+    {"id": 3, "linkHref": "/header", "linkTitle": "Header"},
+    {"id": 4, "linkHref": "/publications", "linkTitle": "Публикации"},
+    {"id": 5, "linkHref": "/exposition", "linkTitle": "Экспозиция"},
+    {"id": 6, "linkHref": "/maps", "linkTitle": "Карта"},
+    {"id": 7, "linkHref": "/samplestorage", "linkTitle": "Хранилище образцов"}
+  ]
+}
